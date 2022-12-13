@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\A315\Desktop\1209\Lab1\Lab1\main.c(28,2): warning C4098: 'main': 'void' 函式正在傳回值
+C:\Users\A315\Desktop\1209\Lab1\Lab1\main.c(14,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\A315\Desktop\1209\Lab1\Lab1\main.c(16,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\A315\Desktop\1209\Lab1\Lab1\main.c(18,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Lab1.vcxproj -> C:\Users\A315\Desktop\1209\Lab1\Debug\Lab1.exe
